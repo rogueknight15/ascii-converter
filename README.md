@@ -25,4 +25,4 @@ $ ./ascii-converter.exe -f <filepath>
 ```Console
 $ ./ascii-converter.exe -f example.png -xscale=2 -yscale=2 -format=2 -o out.txt
 ```
-Converts an image "example.png" to an ascii art image with the ansi escaped background colors as out.txt
+Converts an image "example.png" to an ascii art image with ansi escaped characters with a background color and scaled by a factor of 2 on both axis as out.txt
